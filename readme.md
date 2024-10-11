@@ -19,9 +19,11 @@ Before installing the Python dependencies, make sure `ffmpeg` is installed on yo
   sudo apt install ffmpeg
 ## Installation
 1. Clone the repository:
+   ```bash
    git clone https://github.com/sallemiahmed/vcolor.git
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 3. Run the tool:
