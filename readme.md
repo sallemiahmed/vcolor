@@ -1,5 +1,5 @@
 #vcolor
-<hr>
+<br>
 ![vcolor Logo](./logo/logo.png)
 
 <hr>
