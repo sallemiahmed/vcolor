@@ -1,5 +1,7 @@
 #vcolor
 ![vcolor Logo](./logo/logo.png)
+
+<hr>
 vcolor is a command-line tool for colorizing black-and-white videos using deep learning models.
 
 ## Features
