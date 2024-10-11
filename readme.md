@@ -1,5 +1,5 @@
 #vcolor
-![vcolor Logo](./logo/logo.png)
+<img src="./logo/logo.png" alt="vcolor Logo" width="200" height="200">
 vcolor is a command-line tool for colorizing black-and-white videos using deep learning models.
 
 ## Features
@@ -28,9 +28,17 @@ Options:
 ```
 
 ## Example Videos
+### Original Black-and-White Video
+<video width="320" height="240" controls>
+  <source src="./videos/bw_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-- [Original Black-and-White Video](./videos/bw_video.mp4)
-- [Converted Color Video](./videos/converted_video.mp4)
+### Converted Color Video
+<video width="320" height="240" controls>
+  <source src="./videos/converted_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Acknowledgments
 The tcolor tool utilizes the [colorizeryp}(https://github.com/richzhang/colorization) package developed by Richard Zhang et al. The original code and models for EICU1 and SIGGRAPH17 colorization are provided by the authors.
