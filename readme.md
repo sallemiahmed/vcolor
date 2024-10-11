@@ -9,7 +9,14 @@ vcolor is a command-line tool for colorizing black-and-white videos using deep l
 - Supports two colorization models: ECCV16 and SIGGRAPH17.
 - Can colorize individual frames or entire videos.
 - GPU acceleration support with PyTorch.
+## Prerequisites
 
+Before installing the Python dependencies, make sure `ffmpeg` is installed on your system. You can install it with:
+
+- **Ubuntu/Debian:**
+  ```bash
+  sudo apt update
+  sudo apt install ffmpeg
 ## Installation
 1. Clone the repository:
    git clone https://github.com/sallemiahmed/vcolor.git
